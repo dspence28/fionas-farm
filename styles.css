@@ -109,6 +109,7 @@ h3 {
     text-align: center;
 }
 
-figcaption {
-
+p {
+    padding: 70px;
+    width:100%;
 }
