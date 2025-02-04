@@ -171,3 +171,162 @@ h4 {
         color:#06A816
     }
 }
+
+@media screen and (min-width:834px) {
+
+    header{
+        text-align: center;
+    }
+    nav li {
+        text-align: center;
+        background-color: #E75D02;
+        padding: 10px 8px;
+        border-radius: 6px;
+        text-align: center;
+        width: 200px;
+    }
+    .fruits {
+        margin: 15px;
+    }
+    .vegetables {
+        margin: 15px;
+    }
+    .top {
+        margin: 15px;
+        position: fixed;
+        padding: 5px;
+        bottom:0px;
+        right:0px;
+    }
+    figure {
+        display: grid;
+        grid-template-columns: 2;
+        margin-left: auto;
+        margin-right: auto;
+        width: 50%;
+    }
+    figcaption {
+            text-align: center;
+            color: #000000;
+            z-index: 1;
+    }
+    h3 {
+        text-align: center;
+    }
+    #contact {
+        text-align: center;
+    }
+    #hours {
+        text-align: center;
+    }
+    #copyright{
+        text-align: center;
+        color:#06A816
+    }
+}
+
+@media screen and (min-width:1280px) {
+
+    header{
+        text-align: center;
+    }
+    nav li {
+        text-align: center;
+        background-color: #E75D02;
+        padding: 10px 8px;
+        border-radius: 6px;
+        text-align: center;
+        width: 200px;
+    }
+    .fruits {
+        margin: 15px;
+    }
+    .vegetables {
+        margin: 15px;
+    }
+    .top {
+        margin: 15px;
+        position: fixed;
+        padding: 5px;
+        bottom:0px;
+        right:0px;
+    }
+    figure {
+        display: grid;
+        grid-template-columns: 2;
+        margin-left: auto;
+        margin-right: auto;
+        width: 50%;
+    }
+    figcaption {
+            text-align: center;
+            color: #000000;
+            z-index: 1;
+    }
+    h3 {
+        text-align: center;
+    }
+    #contact {
+        text-align: center;
+    }
+    #hours {
+        text-align: center;
+    }
+    #copyright{
+        text-align: center;
+        color:#06A816
+    }
+}
+
+@media screen and (min-width:1440px) {
+
+    header{
+        text-align: center;
+    }
+    nav li {
+        text-align: center;
+        background-color: #E75D02;
+        padding: 10px 8px;
+        border-radius: 6px;
+        text-align: center;
+        width: 200px;
+    }
+    .fruits {
+        margin: 15px;
+    }
+    .vegetables {
+        margin: 15px;
+    }
+    .top {
+        margin: 15px;
+        position: fixed;
+        padding: 5px;
+        bottom:0px;
+        right:0px;
+    }
+    figure {
+        display: grid;
+        grid-template-columns: 2;
+        margin-left: auto;
+        margin-right: auto;
+        width: 50%;
+    }
+    figcaption {
+            text-align: center;
+            color: #000000;
+            z-index: 1;
+    }
+    h3 {
+        text-align: center;
+    }
+    #contact {
+        text-align: center;
+    }
+    #hours {
+        text-align: center;
+    }
+    #copyright{
+        text-align: center;
+        color:#06A816
+    }
+}
